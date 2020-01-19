@@ -67,7 +67,7 @@
 
 <h2> Assignments: </h2>
 
-<ul>
+
 <ul>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Lectures/blob/master/hw1.pdf" style="text-decoration:none;">Homework 1: Ridge Regression, Gradient Descent, and SGD</a></b></li>
   
@@ -83,7 +83,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Lectures/blob/master/hw7.pdf" style="text-decoration:none;"> Homework 7: Computation Graphs, Backpropagation, and Neural Networks</a></b></li>
 </ul>
 
-</ul>
+
 
 </br>
 
